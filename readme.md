@@ -49,8 +49,7 @@ Dr. Samuel
 Belum Selesai   # Status (Selesai/Belum Selesai)
 Update task status ##Perintah untuk meng-update status tugas
 12S1103
-Selesai
-Show assigment  ##Perintah untuk menampilkan list tugas
+Selesai ##Perintah untuk menampilkan list tugas
 ---
 
 ```
