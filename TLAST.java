@@ -1,4 +1,4 @@
-// Miransya Gresia Siagian- 12S25031
+// Miransya Gresia Siagian - 12S25031
 // Mikhael Jordania Harianja - 12S25053
 
 import java.util.*;
