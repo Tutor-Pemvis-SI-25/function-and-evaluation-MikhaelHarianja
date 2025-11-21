@@ -4,7 +4,7 @@
 import java.util.*;
 import java.lang.Math;
 
-public class E04 {
+public class TLAST {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -46,8 +46,8 @@ public class E04 {
         dosen[i] = input.nextLine();
         deadline[i] = input.nextLine();
         nimnama[i] = input.nextLine();
-        tingkatkesulitan[i] = Double.parseDouble(input.nextLine());
-        harihinggadeadline[i] = Integer.parseInt(input.nextLine());
+        tingkatkesulitan[i] = input.nextDouble();
+        harihinggadeadline[i] = input.nextInt();
         status[i] = input.nextLine();
         prioritas[i] = tingkatkesulitan[i] * 1.0 / harihinggadeadline[i];
         if (prioritas[i] > 3) {
